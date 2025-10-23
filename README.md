@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- Alan's Professional GitHub Profile README -->
 
-<!--
-**alan-shabrandi/alan-shabrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Alan 👋</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Lifelong Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;AI+and+Machine+Learning+Explorer" alt="Typing Animation" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+I am a dedicated **Full-Stack Web and Mobile Developer** with a strong background in **React, TypeScript, and Node.js**.  
+Currently, I am expanding my expertise in **Artificial Intelligence** and exploring ways to integrate AI into modern software solutions.  
+My goal is to build efficient, scalable, and user-friendly applications while continuously improving my technical and problem-solving skills.
+
+---
+
+### ⚙️ Tech Stack
+#### **Frontend**
+React · Next.js · TypeScript · TailwindCSS · Redux · React Native  
+#### **Backend**
+Node.js · Express · MongoDB · REST APIs · PostgreSQL  
+#### **Tools & Others**
+Git · Docker · VS Code · Firebase · Jest · Linux  
+
+---
+
+### 🚀 Featured Projects
+- [🎧 Music Player App](https://github.com/example/music-player)  
+  *A responsive web app built with React, TypeScript, and TailwindCSS.*
+
+- [🧠 AI Chatbot](https://github.com/example/ai-chatbot)  
+  *Conversational assistant using Node.js and OpenAI API.*
+
+- [📱 Expense Tracker](https://github.com/example/expense-tracker)  
+  *React Native app for tracking daily expenses.*
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alan-dev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alan-dev&theme=darkhub&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/example" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://example-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
