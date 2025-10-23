@@ -51,13 +51,6 @@ Git · Docker · VS Code · Firebase · Jest · Linux
 
 ---
 
-### 🌱 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF" alt="Activity Graph" />
-</p>
-
----
-
 ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alan-dev&theme=darkhub&margin-w=10&margin-h=10&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" alt="GitHub Trophies" />
