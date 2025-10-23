@@ -44,14 +44,6 @@ Git · Docker · VS Code · Firebase · Jest · Linux
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alan-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🕓 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alan-dev&theme=tokyonight" alt="GitHub Streak" />
