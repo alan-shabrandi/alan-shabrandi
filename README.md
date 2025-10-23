@@ -1,7 +1,13 @@
 <!-- Alan's Professional GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Alan 👋</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Lifelong Learner</h3>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/alan-dev" alt="Alan's Profile Picture" width="150" style="border-radius: 50%;" />
+  
+  <h1 style="font-family: 'Fira Code', monospace;">Hi, I'm Alan 👋</h1>
+  <h3 style="font-family: 'Fira Code', monospace;">Full-Stack Developer | AI Enthusiast | Lifelong Learner</h3>
+</div>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;AI+and+Machine+Learning+Explorer" alt="Typing Animation" />
@@ -38,7 +44,7 @@ Git · Docker · VS Code · Firebase · Jest · Linux
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alan-dev&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-dev&layout=compact&theme=tokyonight" />
@@ -46,9 +52,23 @@ Git · Docker · VS Code · Firebase · Jest · Linux
 
 ---
 
+### 🕓 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alan-dev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌱 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF" alt="Activity Graph" />
+</p>
+
+---
+
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alan-dev&theme=darkhub&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alan-dev&theme=darkhub&margin-w=10&margin-h=10&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" alt="GitHub Trophies" />
 </p>
 
 ---
