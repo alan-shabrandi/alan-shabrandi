@@ -44,23 +44,6 @@ Currently, I'm diving deeper into **AI and Machine Learning** while expanding my
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alan-shabrandi&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alan-shabrandi&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alan-shabrandi&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 📫 **Email:** [alan.shabrandi01@gmail.com](mailto:alan.shabrandi01@gmail.com)  
