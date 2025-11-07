@@ -1,6 +1,8 @@
 <!-- Alan Shabrandi - GitHub Profile README -->
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alan-shabrandi/alan-shabrandi/main/assets/banner.png" alt="Alan Shabrandi Banner" width="100%"/>
+</p>
 
 <h1 align="center">Hi there, I'm Alan Shabrandi 👋</h1>
 
