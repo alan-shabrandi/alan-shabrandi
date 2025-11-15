@@ -50,7 +50,7 @@ Currently, I'm diving deeper into **AI and Machine Learning** while expanding my
 ### 💬 Let's Connect
 
 📫 **Email:** [alan.shabrandi01@gmail.com](mailto:alan.shabrandi01@gmail.com)  
-🌐 **Portfolio:** [alan-shabrandi.com](https://alan-shabrandi.com)  
+🌐 **Portfolio:** [alan-shabrandi.com](https://alan-shabrandi.com) 
 
 ---
 
