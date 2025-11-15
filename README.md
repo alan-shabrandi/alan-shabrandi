@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://alan-shabrandi.com">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/alan-shabrandi">💼 LinkedIn</a> •
   <a href="mailto:alan.shabrandi01@gmail.com">📧 Email</a>
 </p>
 
@@ -52,7 +51,6 @@ Currently, I'm diving deeper into **AI and Machine Learning** while expanding my
 
 📫 **Email:** [alan.shabrandi01@gmail.com](mailto:alan.shabrandi01@gmail.com)  
 🌐 **Portfolio:** [alan-shabrandi.com](https://alan-shabrandi.com)  
-💼 **LinkedIn:** [linkedin.com/in/alan-shabrandi](https://www.linkedin.com/in/alan-shabrandi)
 
 ---
 
